@@ -3,3 +3,4 @@ pandas
 wget
 matplotlib
 seaborn
+scikit-learn
