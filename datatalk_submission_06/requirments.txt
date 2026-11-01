@@ -1,0 +1,7 @@
+wget
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+xgboost
